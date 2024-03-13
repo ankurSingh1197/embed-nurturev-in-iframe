@@ -1,0 +1,82 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "package": "maverick_testing",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "versionDescription": ""
+    },
+    {
+      "path": "force-app",
+      "package": "maverick_testing_1",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "default": false,
+      "versionDescription": ""
+    },
+    {
+      "path": "force-app",
+      "package": "maverick_testing_2",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "default": false,
+      "versionDescription": ""
+    },
+    {
+      "path": "force-app",
+      "package": "whitespace-analysis",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "default": false,
+      "versionDescription": ""
+    },
+    {
+      "path": "force-app",
+      "package": "mindtickle-whitespace-analytics",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "default": false,
+      "versionDescription": ""
+    },
+    {
+      "path": "force-app",
+      "package": "whitespace-analytics",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "default": false,
+      "versionDescription": ""
+    },
+    {
+      "path": "force-app",
+      "package": "whitespace--analytics",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "default": false,
+      "versionDescription": ""
+    }
+  ],
+  "name": "embed-nurturev-in-iframe",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "59.0",
+  "packageAliases": {
+    "maverick_testing": "0HoF90000004C9SKAU",
+    "maverick_testing@0.1.0-1": "04tF9000000CemdIAC",
+    "maverick_testing_1": "0HoF90000004C9XKAU",
+    "maverick_testing_1@0.1.0-1": "04tF9000000CemiIAC",
+    "maverick_testing_2": "0HoF90000004C9cKAE",
+    "maverick_testing_2@0.1.0-1": "04tF9000000CemnIAC",
+    "whitespace-analysis": "0HoF90000004C9hKAE",
+    "whitespace-analysis@0.1.0-1": "04tF9000000CfkIIAS",
+    "whitespace-analysis@0.1.0-2": "04tF9000000CfkNIAS",
+    "mindtickle-whitespace-analytics": "0HoF90000004C9mKAE",
+    "mindtickle-whitespace-analytics@0.1.0-1": "04tF9000000CfkSIAS",
+    "whitespace-analytics": "0HoF90000004C9rKAE",
+    "whitespace-analytics@0.1.0-4": "04tF9000000CfpYIAS",
+    "whitespace--analytics": "0HoF90000004C9wKAE",
+    "whitespace--analytics@0.1.0-1": "04tF9000000CfpdIAC",
+    "whitespace--analytics@0.1.0-2": "04tF9000000CfpiIAC"
+  }
+}
